@@ -8,7 +8,5 @@ https://bankpalm.vercel.app/
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``Javacript``
 - ``Node``
-- ``HTML``
-- ``CSS``
+
