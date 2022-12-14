@@ -17,3 +17,5 @@ https://bankpalm.vercel.app/
 - Instalar as dependências 
 npm install
 
+- executar o projeto node server.js
+
