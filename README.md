@@ -13,7 +13,7 @@ https://bankpalm.vercel.app/
 
 - ``Node``
 
-## Para roda o projeto
+## Para rodar o projeto
 - Instalar as dependências 
 npm install
 
