@@ -54,12 +54,12 @@ Lista as informações de uma conta específica. Não é necessário enviar nenh
 corpo na requisição. Exemplo de resposta (status code **200**):
 
 ```json
-{
+       {
 		"id": 1,
 		"name": "marcos",
 		"currentBalance": 0,
 		"arrayDeposit": []
-	},
+	}
 ```
 
 ### `PATCH /<CAT_ID>`
