@@ -68,7 +68,7 @@ Atualiza as informações de uma conta. Exemplo de corpo da requisição:
 
 ```json
 {
-"name":"maicon",
+"name":"maicon"
 }
 ```
 
