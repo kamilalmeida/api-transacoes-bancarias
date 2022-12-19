@@ -4,7 +4,7 @@ Desenvolvi essa API, a qual simula transações bancárias, como saques, depósi
 
 ### `POST /`
 
-Adiciona um gatinho. Exemplo de corpo da requisição:
+Adiciona uma conta. Exemplo de corpo da requisição:
 
 ```json
 {
