@@ -97,5 +97,5 @@ Exclui uma conta específica.
 - Instalar as dependências 
 npm install
 
-- executar o projeto node server.js
+- executar o projeto node api.js
 
