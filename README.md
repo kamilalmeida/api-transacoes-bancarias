@@ -48,7 +48,7 @@ Exemplo de resposta (status code **200**):
 ]
 ```
 
-### `GET /<CAT_ID>`
+### `GET /<USER_ID>`
 
 Lista as informações de uma conta específica. Não é necessário enviar nenhum
 corpo na requisição. Exemplo de resposta (status code **200**):
@@ -62,7 +62,7 @@ corpo na requisição. Exemplo de resposta (status code **200**):
 	}
 ```
 
-### `PATCH /<CAT_ID>`
+### `PATCH /<USER_ID>`
 
 Atualiza as informações de uma conta. Exemplo de corpo da requisição:
 
@@ -83,7 +83,7 @@ Exemplo de resposta (status code **200**):
 }
 ```
 
-### `DELETE /<CAT_ID>`
+### `DELETE /<USER_ID>`
 
 Exclui uma conta específica.
 
